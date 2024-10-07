@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aarti-Sharma05
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning Django Rest Framework
 - 💞️ I’m looking for a software development job
 - 📫 How to reach me - aartipokhrel05gmail.com
 - 😄 Pronouns: ...
